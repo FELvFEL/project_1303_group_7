@@ -1,0 +1,7 @@
+Environment,Algorithm,Mean last 20,Best reward
+LunarLander-v3,Distributional C51,215.37769996615802,318.38656848248263
+LunarLander-v3,Dueling DQN,143.07578330171177,320.1639821940449
+LunarLander-v3,Multi-step DQN,-18.72503757179735,267.4810859497862
+MountainCar-v0,Multi-step DQN,-97.8,-83.0
+MountainCar-v0,Distributional C51,-128.1,-84.0
+MountainCar-v0,Dueling DQN,-198.6,-172.0
